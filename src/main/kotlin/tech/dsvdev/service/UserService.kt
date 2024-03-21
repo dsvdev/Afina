@@ -1,4 +1,4 @@
-package tech.dsvdev.serice
+package tech.dsvdev.service
 
 import tech.dsvdev.model.TelegramUser
 

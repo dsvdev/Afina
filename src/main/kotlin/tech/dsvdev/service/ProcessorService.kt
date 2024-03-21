@@ -1,4 +1,4 @@
-package tech.dsvdev.serice
+package tech.dsvdev.service
 
 import org.telegram.telegrambots.meta.api.objects.CallbackQuery
 import org.telegram.telegrambots.meta.api.objects.Message

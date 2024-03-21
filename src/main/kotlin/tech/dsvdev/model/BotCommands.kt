@@ -1,7 +1,6 @@
 package tech.dsvdev.model
 
 enum class BotCommands(val command: String) {
-    START("/start"),
     ABOUT("/about");
 }
 
